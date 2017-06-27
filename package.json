@@ -1,4 +1,6 @@
 {
+  "name": "react-server",
+  "version": "0.6.5",
   "private": true,
   "scripts": {
     "bootstrap": "npm i",
